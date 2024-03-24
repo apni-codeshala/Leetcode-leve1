@@ -1,0 +1,15 @@
+{
+  "name": "leet-code_level1",
+  "version": "1.0.0",
+  "description": "",
+  "main": "docker-exec.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dockerode": "^4.0.2"
+  }
+}
